@@ -1,0 +1,5 @@
+version: 1.0
+logLevel: debug
+reportFile: /tmp/musicLibraryReport.txt
+checks:
+    - TrackNumberModifier

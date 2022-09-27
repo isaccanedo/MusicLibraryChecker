@@ -1,0 +1,6 @@
+version: 1.0
+logLevel: debug
+reportFile: /tmp/mp3report.txt
+checks:
+    - ID3v2TagCheck
+    - TrackNumberCheck
